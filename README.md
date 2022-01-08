@@ -23,8 +23,7 @@
 
 ## Direct ancestors
 
-- [***-msw,react-query, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
-- [***-ts***: cra_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_rtl_msw_react-query)
+[***-openapi-backend***: cra_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
 
 ---
 
@@ -62,7 +61,8 @@ yarn test
 
 ## Inspired by
 
-[Develop and test React apps with React Query, MSW and React Testing Library (Dennis Kortsch)](https://www.denniskortsch.de/posts/msw-react-testing)
+- [Develop and test React apps with React Query, MSW and React Testing Library (Dennis Kortsch)](https://www.denniskortsch.de/posts/msw-react-testing)
+- [Testing React With Jest and OpenAPI mocks (Viljami Kuosmanen)](https://dev.to/epilot/testing-react-with-jest-and-openapi-mocks-8gc)
 
 ### License
 
