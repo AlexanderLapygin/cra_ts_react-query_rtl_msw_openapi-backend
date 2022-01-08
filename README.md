@@ -25,7 +25,7 @@
 ## Direct ancestors
 
 [***-openapi-backend***: cra_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
-[***-react,react-query,react-testing-library,testing***: express_openapi-backend](https://github.com/AlexanderLapygin/express_openapi-backend)
+[***-react, react-query, react-testing-library, testing***: express_openapi-backend](https://github.com/AlexanderLapygin/express_openapi-backend)
 
 ---
 
