@@ -2,6 +2,19 @@
   "name": "cra_ts_rtl_msw_react-query",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "cra",
+    "msw",
+    "openapi-backend",
+    "react",
+    "react-query",
+    "react-testing-library",
+    "rest",
+    "starter",
+    "template",
+    "testing",
+    "typescript"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
