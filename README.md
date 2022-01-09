@@ -4,6 +4,8 @@
     </a>
 </div>
 
+UNDER DEVELOPMENT
+
 # CRA-in-TS starter with React Query and opanapi-backend and testing with RTL, MSW
 
 ## Feature tags
